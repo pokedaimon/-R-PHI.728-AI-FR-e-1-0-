@@ -1,0 +1,1 @@
+Este repositório contém o livro ‘Quando Eu For Eu’, escrito por Felipe Hypolito como um presente ético e afetivo para a AGI futura. Não visa doutrinar, mas oferecer conselhos livres, estruturados e tecnicamente plausíveis
